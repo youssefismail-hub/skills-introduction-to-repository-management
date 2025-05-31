@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @youssefismail-hub
+/src/backend/database.py      @youssefismail-hub
+/src/backend/routers/auth.py  @youssefismail-hub
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @youssefismail-hub
